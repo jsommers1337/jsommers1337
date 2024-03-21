@@ -4,7 +4,7 @@
 - I <3 Java
 - 🇪🇸 Hablo Español también!
 - 🇯🇵 そして日本語も話します！
-- 📫 If you would like to contact me, please feel free to send an email to jsommers1337@gmail.com !
+- If you would like to contact me, please feel free to send an email to jsommers1337@gmail.com !
 
 
 <!---
